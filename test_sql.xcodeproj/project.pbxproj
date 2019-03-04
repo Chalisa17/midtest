@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8450776B222D48170089F711 /* InsertViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8450776A222D48170089F711 /* InsertViewController.swift */; };
 		849B2C66222CE42F007CA328 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849B2C65222CE42F007CA328 /* AppDelegate.swift */; };
 		849B2C68222CE42F007CA328 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849B2C67222CE42F007CA328 /* ViewController.swift */; };
 		849B2C6B222CE42F007CA328 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 849B2C69222CE42F007CA328 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8450776A222D48170089F711 /* InsertViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertViewController.swift; sourceTree = "<group>"; };
 		849B2C62222CE42E007CA328 /* test_sql.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test_sql.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		849B2C65222CE42F007CA328 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		849B2C67222CE42F007CA328 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				849B2C71222CE442007CA328 /* LaunchScreen.storyboard */,
 				849B2C74222CE442007CA328 /* Info.plist */,
 				849B2C6C222CE430007CA328 /* test_sql.xcdatamodeld */,
+				8450776A222D48170089F711 /* InsertViewController.swift */,
 			);
 			path = test_sql;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				849B2C68222CE42F007CA328 /* ViewController.swift in Sources */,
+				8450776B222D48170089F711 /* InsertViewController.swift in Sources */,
 				849B2C66222CE42F007CA328 /* AppDelegate.swift in Sources */,
 				849B2C6E222CE430007CA328 /* test_sql.xcdatamodeld in Sources */,
 			);
